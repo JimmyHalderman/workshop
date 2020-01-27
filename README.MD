@@ -7,11 +7,10 @@ Jimmy Halderman
 1. Line Plot
 2. Path of a Salesman - plot
 
-## Project 1 
+## Projects 
 
-1. ...
 
-##Reading Responses
+## Reading Responses
 
 [Blumenstock Response] (https://github.com/JimmyHalderman/workshop/blob/master/Blumenstock.md) (Jan.27)
 
