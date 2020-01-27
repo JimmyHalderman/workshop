@@ -1,6 +1,6 @@
 # Response to Blumenstock
 Jimmy Halderman
 
-Jnauary 27
+January 27
 
 
