@@ -11,3 +11,6 @@ Jimmy Halderman
 
 1. ...
 
+
+[Blumenstock Response] (https://github.com/JimmyHalderman/workshop/blob/master/Blumenstock.md) (Jan.27)
+
