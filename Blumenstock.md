@@ -15,9 +15,6 @@ January 27, 2020
 
 *How do you respond to these ideas regarding “good intent”, “transparency” and the difficult “balancing act” when considering the intersection of human development with data science?*
 
-
-Jimmy Halderman
-
 ## Response
 
 
