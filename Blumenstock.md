@@ -1,5 +1,5 @@
 January 27, 2020
-## Joshua Blumenstock
+## Joshua Blumenstock Reading Response
 [Don’t forget people in the use of big data for development](https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf) Nature: Sept. 2018
 
 ## Question
@@ -25,5 +25,9 @@ In his 2018 article "Don’t forget people in the use of big data for developmen
 
 Blumenstock starts by giving the reader a cursorary idea of how big has already and could continue to have positive effects on the world. Data could "... enable governments and others to distribute humanitarian aid in a much more focused and timely way than they generally do now" or "...improve public-health interventions during an epidemic..." He then identifes 4 potential pitfalls for big data's increased prevelance in international aid.  
 
-1.Unanticipated effects
-2.
+1.Unanticipated effects (Using increased data and data sophistication could lead to problematic approaches and correlations)
+2.Lack of Validation (New data sources and algorthims have the potential to be built and extrapolated on without fully understanding and recognizing their limitations
+3.Lack of Regulation (No governing body or international organization currently has oversight in this field)
+4. Biased Algorthims (Algorthims and machine learning that is based on flawed or biased data often has biased ouput. [See Tay bot](https://en.wikipedia.org/wiki/Tay_(bot))
+
+
