@@ -26,7 +26,7 @@ Data could "... enable governments and others to distribute humanitarian aid in 
 
 He then identifes 4 potential pitfalls for big data's increased prevelance in international aid.  
 
-1.Unanticipated effects (Using increased data and data sophistication could lead to problematic approaches and correlations)
+1.Unanticipated effects (Using increasing ammounts of data could lead to problematic approaches and correlations)
 
 2.Lack of Validation (New data sources and algorthims have the potential to be built and extrapolated on without fully understanding and recognizing their limitations
 
