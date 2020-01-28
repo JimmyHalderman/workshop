@@ -32,7 +32,7 @@ He then identifes 4 potential pitfalls for big data's increased prevelance in in
 
 3.Lack of Regulation (No governing body or international organization currently has oversight in this field)
 
-4.Biased Algorthims (Algorthims and machine learning that are based on flawed or biased data often have biased ouput. [See Tay bot](https://en.wikipedia.org/wiki/Tay_(bot))
+4.Biased Algorthims (Algorthims and machine learning that are based on flawed or biased data often have biased ouput. [See Tay bot)](https://en.wikipedia.org/wiki/Tay_(bot))
 
 While Blumenstock provides a casual analysis of the "Balancing act" of big data and its role in human development, this type of oversimplification can be dangerous. 2000 words in Nature magazine is certainly not a large enough platform to lay out a full explanation of data science, I worry the type of frightening anecdoetes and "Humble" calls to action would do more harm than good. 
 
