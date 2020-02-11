@@ -1,7 +1,7 @@
 February 10,2020 
 
-##A harmony of data 
-###Lloyd, Tatem and Sorichetta response
+A harmony of data 
+Lloyd, Tatem and Sorichetta response
 
 Lloyd, Tatem and Sorichetta use their paper to describe a few data sets and methodologies used to create a series of “four tiled raster datasets.” The contribution this paper provides is clear in two distinct ways.
 
