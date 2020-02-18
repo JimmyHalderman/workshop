@@ -13,7 +13,9 @@ Jimmy Halderman
 ## Reading Responses
 
 [Blumenstock Response](https://github.com/JimmyHalderman/workshop/blob/master/Blumenstock.md) (Jan.27)
+
 [Lloyd et al. Response](https://github.com/JimmyHalderman/workshop/blob/master/Lloyd.md) (Feb. 9)
-[WArdrop et al. Response](https://github.com/JimmyHalderman/workshop/blob/master/Lloyd.md) (Feb. 17)
+
+[Wardrop et al. Response](https://github.com/JimmyHalderman/workshop/blob/master/Lloyd.md) (Feb. 17)
 
 
