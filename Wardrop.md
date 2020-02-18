@@ -1,0 +1,10 @@
+February 17,2020
+Wardrop et al. Response
+
+Two methods of population mapping are described in Wardrop et al.’s Journal, top down and bottom up. As with any issue concerning the application, disaggregation, and mapping of huge data sets, the differences in the methodologies used to work with that data can have huge consequences on its effectiveness and accuracy.
+
+The top down approach is a more traditional method, where national or regional data sets, often census or larger surveys, are disaggregated into units on geographic distributions and administrative boundaries to interpret the data set. The bottom up approach uses smaller data sets, like microcensus or surveys with representational data on administrative boundary information to then predictively map a population across a larger area. 
+
+The bottom up approach relies on using covariates or a statistical model/distribution to predict a population, which allows for biased or mis-weighted extrapolations. The advantage of the bottom up approach however, is also clear. Using a smaller amount of data, and correctly identifying key predictive variables, could allow for huge amounts of new analyses to be conducted. This is currently being done in Nigeria, where imagery combined with microcensus combined with geographically tied household reports are being used to make population and demographic models. In Afghanistan, Academic and Non-governmental organizations are attempting to derive the entire population, and understand the more rural parts of the country. One could imagine the real time updates and models of bottoms up approaches to become increasingly accurate, and allow for quicker analyses of migration, viral outbreaks or changing coastlines.
+
+As cellphone metadata and satellite imagery becomes exponentially more accurate, at even smaller and smaller scales, having the correct methodology for a bottoms up approach will be crucial.  The inverse is also true for a top down approach. As populations grow at increasing rates, traditional census and surveying will become less and less reliable.  
