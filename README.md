@@ -16,6 +16,6 @@ Jimmy Halderman
 
 [Lloyd et al. Response](https://github.com/JimmyHalderman/workshop/blob/master/Lloyd.md) (Feb. 9)
 
-[Wardrop et al. Response](https://github.com/JimmyHalderman/workshop/blob/master/Lloyd.md) (Feb. 17)
+[Wardrop et al. Response](https://github.com/JimmyHalderman/workshop/blob/master/Wardrop.md) (Feb. 17)
 
 
