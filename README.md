@@ -8,7 +8,7 @@ Jimmy Halderman
 2. Path of a Salesman - plot
 
 ## Projects 
-1. Togo Map and Kara County Map
+1. Exploration of Togo, it's administrative borders, and population densities(https://github.com/JimmyHalderman/workshop/new/master)
 
 ## Reading Responses
 
