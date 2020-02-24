@@ -1,2 +1,4 @@
 Togo side by side comparison 
+
 ![](side_side.png)
+
