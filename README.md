@@ -12,10 +12,10 @@ Jimmy Halderman
 
 ## Reading Responses
 
-[Blumenstock Response](https://github.com/JimmyHalderman/workshop/blob/master/Blumenstock.md) (Jan.27)
+1.[Blumenstock Response](https://github.com/JimmyHalderman/workshop/blob/master/Blumenstock.md) (Jan.27)
 
-[Lloyd et al. Response](https://github.com/JimmyHalderman/workshop/blob/master/Lloyd.md) (Feb. 9)
+2.[Lloyd et al. Response](https://github.com/JimmyHalderman/workshop/blob/master/Lloyd.md) (Feb. 9)
 
-[Wardrop et al. Response](https://github.com/JimmyHalderman/workshop/blob/master/Wardrop.md) (Feb. 17)
+3.[Wardrop et al. Response](https://github.com/JimmyHalderman/workshop/blob/master/Wardrop.md) (Feb. 17)
 
 
