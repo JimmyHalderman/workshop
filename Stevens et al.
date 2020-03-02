@@ -3,7 +3,7 @@
 Lighting Questions:
 
 #1 
-     Stevens et al. describe a “Random Forests Algorithm” method in their paper and it’s applications, advantages and dis-advantages in predicating populations and population growth. The model uses rasterized covariates of  land cover types, topography and other satellite imagery, to predict at a more accurate level, the populations living in those areas. Instead of relying on census data, the random forest model allows for a more systematized and falsifiable method for mapping populations. Covariates and predictive weightings can be changed and cross referenced to find a best fit approach and test for accuracy.       
+     Stevens et al. describe a “Random Forests Algorithm” method in their paper: it’s applications, advantages and dis-advantages in predicating populations and population growth. The model uses rasterized covariates of land cover types, topography and other satellite imagery, to predict at a more accurate level, the populations living in those areas. Instead of relying on census data, the random forest model allows for a more systematized and falsifiable method for mapping populations. Covariates and predictive weightings can be changed and cross referenced to find a best fit approach and test for accuracy.       
  
 #2
       The random forest model is a machine learning algorithm because the model runs multiple times, without specific outcomes or predictions in mind, and references itself in order to improve and more accurately predict the population. Instead of taking a set amount of weights or covariates and applying one function to them all to find a population, the random forest approach has an element of “randomness” when it selects which variables to use and how to weight them. 
