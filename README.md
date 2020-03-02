@@ -18,5 +18,5 @@ Jimmy Halderman
 
 3.[Wardrop et al. Response](https://github.com/JimmyHalderman/workshop/blob/master/Wardrop.md) (Feb. 17)
 
-4.[Stevens et al. Response ](https://github.com/JimmyHalderman/workshop/blob/master/Stevens%20et%20al.) (March. 2)
+4.[Stevens et al. Response ](https://github.com/JimmyHalderman/workshop/blob/master/Stevens.md) (March. 2)
 
