@@ -24,10 +24,15 @@ The plot below shows the topographic contours of togo, one of the key covariates
 The chain of mountains and hills throughout the middle of the country are the eponymously named, Togo Mountains. Extending into Ghana on the Western border and Benin on the Eastern. The mountains cut off the most rural region of Savanes from the lower regions of the Country. The difficult topographic features of Togo may contribute to its difficulty in developing infrastructure into the northern regions. International development experts and organizations have advocated that in increase in rural development, specifically in roads would be one of the most effective way to help develop the country. 
 https://constructionreviewonline.com/2019/09/togo-to-receive-us-33-7m-for-road-project-in-togo/
 
-Here is an example of nightime lights throughout Togo.
 
+Using variables like Nightime lights, allow for data scientists to create "bottom up" type models that can be replicated and used in other areas. For example, a "top down" approach of mapping population, which focuses on national census data or government stastics and surveys can not be applied to a country where those surveys have not taken place. They also leave wide gaps in our understanding of what factors might change overtime, like rising sea levels, deterioration of infrastructure of migration. A bottom up approach, which can be falsified and corrected in a controled test against national survey data that is accurate, can then be repeated, applied and edited to create a scalable population mapping solution. Using covariates like nightime lights or topography, means that through simple big data collections like satelite imagery or cellphone metadata, data scientists have the power to use the already abundant ammount of data infront of them to create better models. 
+
+
+Here is an example of nightime lights throughout Togo. 
 
 ![](TGO.NTL.PNG)
+
+
 ------
 
 Kara county, located in the north and seperated by the Togo Mountains, is the second most rural region of the country. 
