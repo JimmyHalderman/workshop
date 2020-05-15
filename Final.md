@@ -31,4 +31,14 @@ Here is an example of nightime lights throughout Togo.
 ![](TGO.NTL.PNG)
 ------
 
+Kara county, located in the north and seperated by the Togo Mountains, is the second most rural region of the country. 
+![](Kara_County.png)
+
+The Bimah Prefecture of Kara county is an interesting district. While located in the rural Kara county. It lies next to the international border of Benin, specifically the Donga region of Benin. Donga holds a the fourth largest city of Benin and has much more highways/roads than the bordering Bimah. These 2 regions present themselves as an interesting case study for the potential differences that highway and road development can play in the urbanization and population growth of a city. As well as how populations can vary widely across small areas, if they are divided by political boundaries like an international border. 
+
+Below, the population density and urban areas of Bimah are shown. 
+![](Bimahpop.png)
+
+
+
 
