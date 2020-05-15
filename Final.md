@@ -4,7 +4,7 @@ Jimmy Halderman
 
 ## Political Districts and Prefectures of Togo
 
-Togo is divided into 5 administrative regions and 35 prefectures.A Relatively small West African country, Togo holds a total population slightly below 8 million and encompasses a geographic area of about 22,000 square miles. 
+Togo is divided into 5 administrative regions and 35 prefectures. A Relatively small West African country, Togo holds a total population slightly below 8 million and encompasses a geographic area of about 22,000 square miles. 
 
 ![](TGO_intl.png)
 
