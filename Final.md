@@ -28,7 +28,7 @@ https://constructionreviewonline.com/2019/09/togo-to-receive-us-33-7m-for-road-p
 Here is an example of nightime lights throughout Togo.
 
 
-![](tgo_ppp_2020.tif)
+![](TGO.NTL.PNG)
 ------
 
 
