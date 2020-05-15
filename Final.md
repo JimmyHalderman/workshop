@@ -31,11 +31,4 @@ Here is an example of nightime lights throughout Togo.
 ![](tgo_ppp_2020.tif)
 ------
 
-## Roads and Health Care Facilities Across Azerbaijan
-
-In the plot below, all of Azerbaijan is shown with primary roads in blue, secondary roads in green, and unknown roads in orange. 
-
-Using road data and Healthsite location data from the Humanitarian Data Exchange, further analysis of urbanization, access to healthcare, and closness to roads could be done. The vast majority of Togos Healthsites are located in the South, near the capital city of Lome. 
-
-
 
