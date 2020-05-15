@@ -12,7 +12,6 @@ The southernmost Region, Maritime, has the highest population and population den
 
 ![](Togop3.png)
 
-Kara County is one of the more rural and sparsley populated regions of the country. 
 [](Kara_County.png)
 
 ![](side_side2.png)
